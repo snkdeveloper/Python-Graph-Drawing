@@ -12,8 +12,9 @@ Prerequisites
 * Matplotlib library (install via pip install matplotlib)
 
 To run
-1. git clone 
-2.  python (the-file-name).py
+1. git clone https://github.com/snkdeveloper/Python-Graph-Drawing.git
+2. cd Python-Graph-Drawing
+3. python (the-file-name).py
 
 
 
